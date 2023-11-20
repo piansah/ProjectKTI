@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Preventive Maintenance</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="maintenance">Maintenance</string>
+    <string name="history">History</string>
+</resources>
